@@ -1,0 +1,43 @@
+From fa51d9a501c64fdad6795da7476bf71081b950d9 Mon Sep 17 00:00:00 2001
+From: ShakyaAnkit <shakyankitt001@gmail.com>
+Date: Tue, 9 Apr 2019 15:14:01 +0530
+Subject: [PATCH] added edu2
+
+---
+ a | 24 ++++++++++++++++++++++++
+ 1 file changed, 24 insertions(+)
+ create mode 100644 a
+
+diff --git a/a b/a
+new file mode 100644
+index 0000000..afb2f84
+--- /dev/null
++++ b/a
+@@ -0,0 +1,24 @@
++[33mcommit 5d2af109f1873065c66a9db921d7648460fcbdec[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
++Author: ShakyaAnkit <shakyankitt001@gmail.com>
++Date:   Tue Apr 9 15:05:12 2019 +0530
++
++    remove file
++
++[1mdiff --git a/edu2.txt b/edu2.txt[m
++[1mnew file mode 100644[m
++[1mindex 0000000..2054214[m
++[1m--- /dev/null[m
++[1m+++ b/edu2.txt[m
++[36m@@ -0,0 +1 @@[m
++[32m+[m[32mforest 2[m
++[1mdiff --git a/edu3.txt b/edu3.txt[m
++[1mnew file mode 100644[m
++[1mindex 0000000..9f5a655[m
++[1m--- /dev/null[m
++[1m+++ b/edu3.txt[m
++[36m@@ -0,0 +1 @@[m
++[32m+[m[32mforrest2 \3[m
++\ No newline at end of file[m
++[1mdiff --git a/edu4.txt b/edu4.txt[m
++[1mnew file mode 100644[m
++[1mindex 0000000..e69de29[m
+-- 
+2.21.0.windows.1
+
